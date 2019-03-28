@@ -1,0 +1,12 @@
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.frmLogin.resources
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.Properties.Resources.resources
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\GenerateResource.read.1.tlog
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.frmAccountGeneral.resources
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.frmManager.resources
+\\vmware-host\Shared Folders\Desktop\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.frmAdmin.resources
